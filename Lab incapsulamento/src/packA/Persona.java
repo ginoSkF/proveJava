@@ -1,5 +1,5 @@
 package packA;
-
+//modifica account Gino
 public class Persona {
 	public int id=1;
 	private String nome="Gigi";
